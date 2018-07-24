@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/balsoft/projects/codeforces/build",
+  "command": "/home/balsoft/.nix-profile/bin/c++    -g   -o CMakeFiles/codeforces.dir/main.cpp.o -c /home/balsoft/projects/codeforces/main.cpp",
+  "file": "/home/balsoft/projects/codeforces/main.cpp"
+}
+]

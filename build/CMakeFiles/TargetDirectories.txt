@@ -1,0 +1,6 @@
+/home/balsoft/projects/codeforces/build/CMakeFiles/install/local.dir
+/home/balsoft/projects/codeforces/build/CMakeFiles/list_install_components.dir
+/home/balsoft/projects/codeforces/build/CMakeFiles/rebuild_cache.dir
+/home/balsoft/projects/codeforces/build/CMakeFiles/install.dir
+/home/balsoft/projects/codeforces/build/CMakeFiles/codeforces.dir
+/home/balsoft/projects/codeforces/build/CMakeFiles/edit_cache.dir

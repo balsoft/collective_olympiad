@@ -1,0 +1,1 @@
+/home/balsoft/.nix-profile/bin/c++  -g  -rdynamic CMakeFiles/codeforces.dir/main.cpp.o  -o codeforces 
